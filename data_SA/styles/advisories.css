@@ -1,0 +1,141 @@
+
+
+@media screen
+{
+
+    .advisories-zdi-link
+    {
+        margin-bottom:      0;
+        margin-left:        5em;
+    }
+
+    .advisories-zdi-link img
+    {
+        float:              left;
+        margin-top:         -.5em;
+    }
+
+    .advisories-list dt,
+    .advisories-list dd
+    {
+        background-color: #FAFAFA;
+    }
+
+    .advisories-list h3
+    {
+        font-size:        1.5em;
+        background-color: #FFFFFF;
+        border-bottom:    1px solid #0162A8;
+        margin-left:      -6px;
+        margin-right:     -6px;
+        padding-top:      10px;
+        padding-bottom:   5px;
+        text-align:      right;
+    }
+    
+    .advisories-list .hover
+    {
+        background-color: #F7F7F0;
+    }
+    
+    .advisories-container
+    {
+        color:          #444444;
+        padding:        0 12px 0 12px;
+        margin:         0;
+        border-top:     1px dotted #CCCCCC;
+        background:     #FAFAFA url(../img/advisory_see_more.gif);
+    }
+    
+    .advisories-list dt
+    {
+        font:           300 1.1em Verdana,Arial,Helvetica,Sans-Serif; 
+        margin:         0;
+        padding:        5px;
+    }
+    
+    .advisories-list dd
+    {
+        margin:         0px;
+        padding:        0px;
+        padding-right:  5px;
+        padding-left:   5px;
+    }
+
+    .advisories-upcoming-list .advisories-report-date 
+    {
+        display:        block;
+        float:          right;
+        clear:          right;
+        margin-top:     -2em;
+        font-size:      .9em;
+        line-height:    .9em;
+    }
+
+    .advisories-upcoming-list .advisories-severity
+    {
+        display:        block;
+        clear:          right;
+        float:          right;
+        font-size:      .9em;
+        line-height:    .9em;
+    }
+
+    .advisories-published-list dd
+    {
+        padding-bottom:  .5em;
+    }
+    
+    .advisories-published-list .advisories-public-id
+    {
+        display:        block;
+        float:          left;
+        font-size:      .9em;
+        line-height:    1.1em;
+    }
+    
+    .advisories-published-list .advisories-publish-date
+    {
+        display:        block;
+        margin-left:    auto;
+        margin-right:   auto;
+        text-align:     center;
+        font-size:      .9em;
+        line-height:    1.1em;
+    }
+    
+    .advisories-published-list .advisories-severity
+    {
+        display:        block;
+        float:          right;
+        font-size:      .9em;
+        line-height:    1.1em;
+    }
+    
+    .advisories-published-list .advisories-discoverers
+    {
+        display:        block;
+        font-size:      .9em;
+        line-height:    1.1em;
+    }
+    
+    .advisories-published-list .advisories-report-date
+    {
+        display:        block;
+        font-size:      .9em;
+        line-height:    1.1em;
+    }
+    
+    .advisories-published-list .advisories-days-outstanding
+    {
+        display:        block;
+        float:          right;
+        font-size:      .9em;
+        line-height:    1.1em;
+    }
+    
+    .advisories-published-list .advisories-details
+    {
+        padding-top:    1.5em;
+    }
+}
