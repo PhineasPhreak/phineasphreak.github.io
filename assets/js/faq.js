@@ -1,0 +1,3 @@
+$(function(){$('.faq__question').on('click',function(e){var answer=$(this).next('.faq__answer');if(!$(answer).is(":visible")){$(this).parent().addClass('faq-item--open');}else{$(this).parent().removeClass('faq-item--open');}
+$(answer).slideToggle(300);});$('.toggle-all-questions').on('click',function(event){event.preventDefault();$('.faq__answer').each(function(){if(!$(this).is(":visible")){$(this).parent().addClass('faq-item--open');}else{$(this).parent().removeClass('faq-item--open');}
+$(this).slideToggle(300);});});});

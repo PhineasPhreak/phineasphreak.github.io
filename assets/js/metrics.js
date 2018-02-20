@@ -1,0 +1,1 @@
+$.getJSON('https://hackerone.com/metrics.json?ibb=true',function(data){$('#paid_value').text(data.paid_value);$('#paid_units').text(data.paid_units);$('#bountied').text(data.bountied);$('#resolved').text(data.resolved);});
