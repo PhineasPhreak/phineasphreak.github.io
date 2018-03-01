@@ -1,0 +1,11 @@
+==== SHA1 (Warning: Deprecated) =====
+e1cd2de636fb9fbafd450a056e18adcba6bb5ec6  pspk-pgp-key.asc
+
+=== SHA 256 ===
+6f40eee854e2f796e84241669ffb6eaa943a1f1adac11a930c1ec817d736218f  pspk-pgp-key.asc
+
+=== SHA 384 ===
+10517d5a8591662f1302932c8b7104aaa52605c0f7357a2154e4d794db21ec957c9d2235fcd8ecff8011096a8d4b03d8  pspk-pgp-key.asc
+
+=== SHA 512 ===
+0c87a2347258f58a5b66b4052562a6bf85991654f5f0136760b70558c71b3bc970435e5cd476237f38cff699b74b80a458c0091bd7bac4569c258850452c4c2d  pspk-pgp-key.asc
